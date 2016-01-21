@@ -21,6 +21,10 @@ body {
 	background: none;
 }
 
+.jumbotron p.active{
+     color:#1f6ddd;
+}
+
 .jumbotron:after {
      content:"";
      background: url("../images/lorempixel.jumbotron.jpeg");
